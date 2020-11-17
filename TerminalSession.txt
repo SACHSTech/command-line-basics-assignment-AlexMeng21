@@ -15,4 +15,13 @@ myfile_copy.txt  myfile.txt
  mv myfile_copy.txt myfile2.txt
  ls
 myfile2.txt  myfile.txt
- 
+ mv myfile.txt ~
+ ls ~
+command-line-basics-assignment-AlexMeng21  _test_runner.py
+myfile2.txt
+ cd ..
+rm LinuxExercise/myfile.txt
+ rm -r  LinuxExercise
+ ls ~
+command-line-basics-assignment-AlexMeng21  _test_runner.py
+myfile2.txt
